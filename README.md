@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fefi Casio</h1>
 <h3 align="center">A passionate front-end developer from Indonesia</h3>
 
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300px">
+<h1 align="center"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="600px"></h1>
 
 - 🌱 I’m currently learning **Bootstrap**
 
