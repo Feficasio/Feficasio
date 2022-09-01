@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fefi Casio</h1>
 <h3 align="center">A passionate front-end developer from Indonesia</h3>
-
-https://www.google.com/search?q=animated+coding&sxsrf=ALiCzsbPkHs3ZgBxyJyjge1nnZXhVwH3aw:1662035026805&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjI0oH7yvP5AhW4R2wGHQATDxAQ_AUoAXoECAEQAw&biw=1536&bih=722&dpr=1.25#imgrc=dbrfb5dvHO4gVM
+https://dribbble.com/shots/4171367-Coding-Freak#
 
 - 🌱 I’m currently learning **Bootstrap**
 
