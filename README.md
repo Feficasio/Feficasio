@@ -3,7 +3,7 @@
 
 <h1 align="center"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="600px"></h1>
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Bootstrap** **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Feficasio/Portfolio-saya](https://github.com/Feficasio/Portfolio-saya)
 
